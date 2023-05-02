@@ -1,0 +1,93 @@
+[
+    {
+        "country": "Ethiopia",
+        "offcial": "Federal Democratic Republic of Ethiopia",
+        "local_name": "ኢትዮጵያ Ityop̣p̣əya",
+        "region": "Eastern Africa",
+        "captial": "Addis Ababa",
+        "independent": 1000,
+        "image": "images/eth.png"
+    },
+    {
+        "country": "Kenya",
+        "offcial": "Republic of Kenya",
+        "local_name": "Kenya",
+        "region": "Eastern Africa",
+        "captial": "Nairobi",
+        "independent": 1963,
+        "image": "images/ken.png"
+    },
+    {
+        "country": "South Africa",
+        "offcial": "Republic of South Africa",
+        "local_name": "Suid-Afrika / South Africa / Sewula Afrika",
+        "region": "Southern Africa",
+        "area": "1,219,090 km²",
+        "captial": "Pretoria",
+        "independent": 1910,
+        "image": "images/zaf.png"
+    },
+    {
+        "country": "Algeria",
+        "offcial": "People’s Democratic Republic of Algeria",
+        "local_name": "الجزائر al-Dschazā’ir",
+        "region": "Northern Africa",
+        "captial": "Niamey",
+        "independent": 1962,
+        "image": "images/dza.png"
+    },
+    {
+        "country": "Niger",
+        "offcial": "Republic of the Niger",
+        "local_name": "Niger",
+        "region": "Western Africa",
+        "captial": "Moscow",
+        "currency": 1960,
+        "image": "images/ner.png"
+    },
+    {
+        "country": "Gabon",
+        "offcial": "Gabonese Republic",
+        "local_name": "Le Gabon",
+        "region": "Central Africa",
+        "captial": "Libreville",
+        "independent": 1960,
+        "image": "images/pol.png"
+    },
+    {
+        "country": "Benin",
+        "offcial": "Republic of Benin",
+        "local_name": "Bénin",
+        "region": "Western Africa",
+        "captial": "Porto-Novo",
+        "independent": 1960,
+        "image": "images/ben.png"
+    },
+    {
+        "country": "Madagascar",
+        "offcial": "Republic of Madagascar",
+        "local_name": "Madagasikara/Madagascar",
+        "region": "Eastern Africa",
+        "captial": "Antananarivo",
+        "independent": 1960,
+        "image": "images/mdg.png"
+    },
+    {
+        "country": "Eritrea",
+        "offcial": "State of Eritrea",
+        "local_name": "ኤርትራ Ertra / إرتريا Iritriyyā",
+        "region": "Eastern America",
+        "captial": "Asmara",
+        "independent": 1993,
+        "image": "images/eri.png"
+    },
+    {
+        "country": "Namibia",
+        "offcial": "Republic of Namibia",
+        "local_name": "Namibia",
+        "region": "Southern Africa",
+        "captial": "Windhoek",
+        "independent": 1990,
+        "image": "images/nam.png"
+    }
+]
