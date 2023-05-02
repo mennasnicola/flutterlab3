@@ -1,4 +1,5 @@
-[
+{
+"countries":[
     {
         "country": "Ethiopia",
         "offcial": "Federal Democratic Republic of Ethiopia",
@@ -91,3 +92,4 @@
         "image": "images/nam.png"
     }
 ]
+}
